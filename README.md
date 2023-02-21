@@ -23,6 +23,8 @@ php artisan jwt:generate
 
 php artisan serve
 
+Linkk for API Doc (https://docs.google.com/document/d/1pdVgndnqGAyIkkzpBS6aiNKsFDWmp0QQfmDvHuDdOpc/edit?usp=sharing)
+
 
 ## About Laravel
 
