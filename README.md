@@ -9,21 +9,27 @@
 
 ## Env Setup 
 
-Please run the below commands for project setup
+- Please run the below commands for project setup
 
-copy .env.example to .env
+- copy .env.example to .env
 
-composer install
+- composer install
 
-php artisan key:generate
+- php artisan key:generate
 
-php artisan migrate
+- php artisan migrate
 
-php artisan jwt:generate
+- php artisan jwt:generate
 
-php artisan serve
+- php artisan serve
 
-Linkk for API Doc (https://docs.google.com/document/d/1pdVgndnqGAyIkkzpBS6aiNKsFDWmp0QQfmDvHuDdOpc/edit?usp=sharing)
+- Linkk for API Doc (https://docs.google.com/document/d/1pdVgndnqGAyIkkzpBS6aiNKsFDWmp0QQfmDvHuDdOpc/edit?usp=sharing)
+
+## Features
+
+-- Used repository pattern
+-- Migrations for creating tables
+-- JWT plugin
 
 
 ## About Laravel
