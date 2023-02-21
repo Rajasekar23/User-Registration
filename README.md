@@ -27,9 +27,9 @@
 
 ## Features
 
--- Used repository pattern
--- Migrations for creating tables
--- JWT plugin
+- Used repository pattern
+- Migrations for creating tables
+- JWT plugin
 
 
 ## About Laravel
